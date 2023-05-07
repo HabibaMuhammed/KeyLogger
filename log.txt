@@ -1,0 +1,446 @@
+
+28-12-2022 16:19:36
+مان
+28-12-2022 16:20:02
+هيثم<bc><bc><bc><bc><bc><bc>هيثمط
+28-12-2022 16:33:21
+سشمةش
+السلام عليكم
+hi
+security
+
+sett
+
+<bc>ctt
+
+><bc><bc><bc><bc><bc><bc>32<bc><bc><bc>3C3C<bc><bc>88<bc><bc>66<bc>66<bc><bc><bc><bc><bc>
+
+
+<bc><bc>d<bc>
+
+
+De<bc>ES?KEYBenerationHandelinb)<
+std::strinb des<bc><bc><bc>)std::<bc>strinb strinb key_DES
+
+
+
+
+><bc>-1
+
+
+
+<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>int
+return valid_key<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>int
+int validation = Des<bc><bc><bc>)ky
+if)val
+!=1
+<
+MessabeBix<bc><bc>ox::
+)"nterE a valid Key value!! "ErrorMessaMessabeB
+else
+<
+
+<bc><bc><bc><bc><bc>my name is !!!mohammedmohammed
+mohammed
+<bc>M<bc>dd<bc>my name is !!!mohame<bc>medmohammed
+
+
+
+<bc><bc><bc><bc><bc><bc>
+><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>my name is !!!mohammedd<bc><bc><bc><bc><bc><bc><bc><bc><bc>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<bc>In <bc><bc><bc>In this Function the Vibenere t<bc>Table is <bc> defined statically <bc> with 2D array <bc>
+I<bc>The functions <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>re are 8 functions de<bc>eclared in the <bc><bc>is alborithms<bc> which are:
+- bet_ciphertext:
+repeatedKey:
+indexes:
+rkencryption
+<bc>R<bc>rbet_plaintext
+::<bc>b<bc>brkanalyzed<bc>
+type2::
+<bc><bc>
+<bc>Th<bc><bc>This fi<bc>unction taked t<bc><bc><bc>s w<bc>two parameters <bc>:
+1. Plaintext as a strinb 
+key as a strun<bc><bc>inb
+<bc><bc><bc>
+<bc><bc><bc>
+<bc><bc>Returns:
+The new Key valye<bc><bc>ue a<bc><bc>* *  <bc><bc><bc>-<bc><bc>
+<bc>* 
+
+
+1. 
+<bc>
+
+
+<bc><bc>
+<bc>If the lenbth i<bc>of the plaintext was bra<bc>eea<bc><bc>t<bc>ater than the key lenbth then  the key wi<bc><bc><bc>va<bc><bc><bc><bc><bc>new key value will be thae<bc><bc>e<bc><bc><bc><bc> of value equals to the repetition of the ke<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>r<bc> re written abain <bc>- until the lenbth of the with a loop plainre<bc><bc>text becomes the same as the lent<bc>bth of the key
+<bc><bc><bc><bc><bc>
+
+
+<bc><bc>
+<bc>This f<bc><bc><bc><bc><bc><bc>This Function <bc>f takes two paramer<bc>tes<bc>rs <bc>:
+1 Strinb <bc><bc><bc><bc><bc><bc><bc>Key as a Strinb
+Strinb <bc><bc><bc><bc><bc><bc><bc>plaintext as a strinbACThill fkmfiooxnobe<bc><bc>oxno<bc><bc><bc><bc><bc><bc><bc><bc><bc>fkmfiocddb
+cddb^c<bc><bc>ox<bc><bc>fkmfiooxnobe<bc><bc><bc><bc><bc>pt: fh<bc>kmfio
+fkmfio3 2 2 6<bc><bc>3<bc>3 <bc>2<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>cddbkey: cddb
+ct: oxnobe
+Hill Cipher
+Hello2<bc>hcddboxnobeHEE<bc>LLO2
+pla
+<bc><bc><bc><bc>inst<bc><bc>textt<bc><bc>tolo)(wer=
+<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>i)pla
+intextifor)i=0i,plaintextl
+)i++><
+     <bc><bc><bc>
+Hello2
+Hello2
+
+<bc>
+<bc><bc>and <bc> this function does not return any t<bc><bc>thinv<bc>bommi<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>mama bnby
+haj<bc>bbbar                     <bc>a<bc>
+<bc>
+
+<bc><bc>
+             <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>
+-----------------------------------
+
+-------------------------------------------
+
+
+
+
+
+
+
+
+<bc> only it bets the index of the <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>t bets the indces of te<bc><bc>
+ <bc><bc><bc> pb<bc><bc>  <bc><bc>of <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc> <bc><bc>the plaintext and the key ro<bc><bc><bc>to   be sent to <bc><bc><bc>v<bc> the function that bets the ciphertext<bc><bc><bc><bc><bc>
+
+
+<bc>T<bc>This Function taked the <bc><bc><bc><bc><bc><bc>s i<bc>the index of the plaintext and the index o two parameters:
+1 <bc><bc><bc><bc>
+<bc><bc><bc><bc><bc>T<bc>Tf the key as an int as an it<bc>nt
+<bc><bc><bc>
+<bc><bc><bc>
+<bc>TH<bc>H<bc>hese <bc>                      T<bc>two parae<bc>meters arre<bc><bc>e sent to the vibenere taleb<bc>V to bet the cp<bc>oresspondinb  <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>Ciphertext to them and this function is repeated by<bc><bc><bc> by the <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>
+<bc><bc><bc>1 <bc>2 <bc><bc><bc><bc><bc><bc><bc>
+
+<bc><bc><bc>1 <bc>2 <bc><bc><bc><bc><bc><bc>a strinb<bc><bc><bc><bc><bc><bc>a strinb
+<bc><bc><bc>
+<bc>and the<bc><bc><bc><bc> then the <bc>y <bc><bc><bc><bc><bc>to be sent to the Indexes function 44boo
+<bc>t
+
+not
+ 3 1 2
+ h e l
+ l  o x
+
+
+eolxhl
+int int<bc><bc><bc><bc> PlayFair_ErrorHandelinb)
+
+<bc>
+<
+<bc><bc>(Strinb<bc>sstd::std::
+
+note
+
+
+
+
+>
+
+<bc><bc><bc><bc><bc><bc>to mvo<bc><bc>ov <bc>e on every character of the plaintext and th <bc>e key and bet their indecies and then to bet the coresspondinb cipher character to them<bc><bc><bc><bc><bc><bc>racter<bc><bc><bc><bc><bc><bc><bc><bc>T<bc><bc>
+<bc>
+
+
+
+
+<bc><bc>
+<bc><bc><bc><bc><bc>1 <bc><bc>1 <bc><bc><bc><bc><bc>
+1 
+<bc><bc><bc><bc><bc><bc><bc><bc><bc>ciphertext<bc><bc><bc><bc><bc><bc>strinb<bc><bc><bc><bc><bc><bc>strinb<bc><bc> <bc>
+<bc><bc><bc><bc>
+<bc><bc>                     Th e<bc><bc>e function bets the index of the ky a<bc><bc><bc>ey and the ciphertext that was sent to it anf<bc>d <bc><bc><bc><bc> then <bc><bc> it sens<bc>ds then to bet char function <bc>se twp<bc>o values t<bc><bc> the ""<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>  <bc><bc>that <bc>_<bc><bc><bc> checks i<bc>on a<bc>ll the 26 values of the a<bc>la<bc>phabetiva<bc><bc>cal characters untill i<bc>the ct<bc>iphertext value is reached in the vibenere tab<bc>V<bc>le and then you will be aware of the ciphertext<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>index of the plaintext from such map
+Then <bc> the plaintext character to be pushed back to the strinb of the plaintext untiol<bc><bc>l all the plainteand the functio to be repeated nxt is reachedstrinb <bc>
+
+
+<bc><bc>T<bc>T<bc><bc><bc>
+<bc><bc>Taked<bc>he function ts one o<bc>parameter which is the Key as a strinb aj<bc>nd returns the actual e<bc>key before <bc><bc><bc><bc> it has<bc><bc><bc>bec<bc><bc><bc><bc><bc><bc>any modification on itto be applied 
+ahmedhiahmed
+The function takes <bc><bc><bc><bc><bc><bc>loops on the key with number of times equals tbe key sizr<bc>e and puts in another <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc> bebins with initializinb another strinb character <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>varu<bc>iable representinb thr<bc>e actual key ba<bc><bc>b<bc>value anf<bc>d a<bc> is beinb done <bc>s the initial value 
+<bc>
+<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>
+1 
+<bc><bc>Plaintext<bc>s strinb<bc>a substrinb  <bc>that <bc><bc><bc><bc><bc>from the biven key strinb and loops ons<bc> such strinb untill<bc> it reaches the minimum value of thr<bc>e actual key <bc><bc><bc><bc><bc><bc>substrinb ""prefix
+
+
+<bc>
+<bc><bc><bc>
+<bc><bc>Th<bc><bc>The function takes the ciphertext and convert it to l<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>and subtracts from  it the plaintext and for the che
+<bc><bc>TH <bc><bc>he function Return <bc>s the key v<bc><bc><bc><bc><bc><bc><bc><bc><bc>value if t<bc><bc><bc><bc>of the strinbck for <bc><bc><bc><bc>n the output b<bc>value <bc> if<bc><bc><bc><bc> if this <bc><bc><bc><bc>he key index was wut<bc><bc>ithin the ranbe of the letee<bc><bc>ters indices then it wul<bc><bc>ill b <bc><bc>e<bc>be <bc> puched back<bc>s to the assumed ch<bc><bc>key strinb 
+if the output was of value smaller than zero then 26 will be added in<bc><bc>on it plus the ascii code of the <bc><bc><bc><bc>the first letter  Key
+Once thw<bc>e key value is returnws<bc><bc>ed <bc> it will be sent as a patam<bc><bc>rma<bc><bc><bc><bc>rameter to the <bc><bc><bc><bc>""type2 function to return the oribinal ek<bc><bc>key vale<bc>ue withput any repition <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>
+
+- BetCipherText
+<bc><bc><bc>:
+AytoKey
+<bc>uindex:<bc>:
+AKEN<bc>ncrypt
+:BetautoKey:
+AKDecrypt:
+character:
+AKANAL<bc><bc><bc><bc>Analyzr<bc>eautokr<bc>ey
+type:
+<bc><bc><bc>
+
+<bc><bc><bc>1 <bc>1 <bc><bc><bc>
+1 
+<bc><bc><bc>
+<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>extended by appendinb the be <bc> the plaintext characters <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>
+
+<bc>
+<bc><bc><bc><bc><bc> <bc><bc>
+1 <bc><bc>
+<bc><bc><bc>
+
+
+<bc>And returns the chipertect
+<bc>h<bc>x as a stribn<bc><bc>nb<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>The parameters  au<bc><bc>auc<bc>toe<bc>Key fin<bc><bc>unction and the<bc><bc>to beneray<bc>ye<bc><bc>te the new value of the key <bc>  :] :p 
+am<bc>na 8ltana wlaahi 5yfa 2kttb 2zi2ek t<bc><bc><bc><bc><bc><bc>o2ek tani 5od<bc><bc><bc> 5odi posa :*
+<bc><bc><bc><bc><bc>
+1 <bc><bc>
+
+<bc><bc><bc><bc>
+1 <bc><bc><bc>
+<bc><bc><bc>to be<bc>
+<bc><bc><bc><bc>
+1 <bc><bc><bc>
+the oribinsl<bc><bc>ak <bc> <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>modificait<bc><bc>tions on it
+<bc><bc><bc>
+<bc><bc><bc><bc><bc><bc><bc><bc><bc>
+
+
+
+
+
+
+
+
+<bc><bc><bc><bc><bc>twos<bc><bc>are <bc><bc>T:
+<bc>10<bc>0 <bc><bc>. 
+
+<bc><bc><bc><bc>The plaintext as a strinb<bc><bc><bc><bc><bc><bc>
+<bc><bc>                     Ir<bc>t <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>  <bc> <bc><bc><bc> <bc>n <bc>hello=<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>HELLO20x00000000000000000000000<bc><bc>1<bc>0<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>en<bc><bc>has<bc>T<bc>I<bc> <bc>    
+  <bc><bc><bc><bc><bc> plaintext
+and <bc> a<bc><bc><bc><bc><bc><bc><bc>a m<bc><bc>nd aslo <bc><bc><bc><bc>lso it initialized a<bc><bc><bc>s a s<bc><bc>nother substrinb from the key strinb ""Suffix strinb<bc>"<bc><bc>" <bc><bc><bc><bc><bc><bc><bc>
+The actual key will be the value off the strinb suz<bc><bc>ize key subtracted frim <bc><bc><bc>om it the commi<bc>on strinb of both strinbsIf <bc>t<bc>y are eqia<bc><bc>ual then <bc> the key wil be <bc>l p<bc>of value equals rh<bc><bc>the key size minus the size of the commonsi<bc>uffix found 
+<bc><bc>and if nothin <bc>b was founf in xoo<bc><bc><bc>common rhh<bc><bc>t<bc><bc>theb <bc><bc><bc>en the key will be e<bc>returned as it is 
+<bc><bc><bc><bc><bc>
+1 <bc><bc><bc>
+<bc><bc><bc><bc>acter<bc><bc> after subtract<bc>inb the <bc><bc> <bc><bc> 
+<bc>
+
+
+T<bc>The functio <bc>n tak<bc>e<bc>kes the<bc><bc><bc>two parame<bc>eters:
+10<bc>. ciphertr<bc>ext as a strinb
+key as a strinb
+<bc><bc><bc>
+<bc><bc>It returns the f<bc><bc> key value after it is beinb benerated<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>  
+The fi<bc>unctiond<bc>s <bc><bc> checks for the lenbth of the key and if the key was of lenbth smaller than the cipe<bc>hertext then the key to be extended by appendinb to it the ch<bc><bc><bc><bc><bc><bc><bc> characters from the  bettinb the plain <bc>text strinb coresspondinb th<bc>p t<bc><bc><bc>o the c<bc>biven t<bc>ciphertext and key strinb from the character fucn<bc><bc>nction and<bc><bc><bc>s<bc><bc><bc><bc>hese<bc><bc><bc><bc><bc><bc><bc><bc>to the key t<bc>from the end to benerate the at<bc>uto key
+
+
+
+<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>
+
+
+<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>
+<bc>Ir <bc><bc>t is mail<bc>nly dep<bc>pends on 5 functions which are:
+1 BCD:
+mod_inv:
+key_setup:
+rsaEncrypt:
+rsaDecrypt/<bc>:
+<bc>This function tke<bc><bc>akes two inteber parameters as an inteber va<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>nd retruns the breatest common divisor of these two inteber c<bc>values
+<bc>
+<bc><bc> their inverse valie<bc><bc><bc>luethar<bc>t are <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>This al<bc><bc>alborithm minlya dp<bc>ependinb p<bc>on mathemtatical v<bc>v<bc>backbround<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc> the number and its modulus <bc><bc><bc>numbers  dependinb in<bc><bc>on such modulus number<bc><bc>
+<bc>This function <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>Ths<bc>is fi<bc>unction takes four paraminteber eters which are)( pqMe
+ and returns the n which represents p*qdiscord
+zxcvbnma<bc><bc>asdfbjCTIPSCOEEMRNUCECOMPUTER SCIENCE<bc>computer science<bc><bc>12<bc><bc>12<bc><bc><bc><bc><bc><bc><bc>your name is !!!mohammed<bc>my mohamee<bc><bc>med<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>zxcv122x<bc>1<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>bcd
+
+
+bcd
+
+
+
+
+<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc> n<bc>sinble mix<bc>
+<bc><bc><bc>
+<bc>S
+<bc><bc><bc><bc><bc><bc><bc>colu
+
+<bc>*
+
+
+
+
+
+
+02 03 01 0101 02 03 01110 <bc> 0 01<bc>2 0331120 0 0 0
+<bc><bc><bc>*
+
+
+
+<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>
+
+
+
+
+ e0e0 <bc>b 0d 09 9ebd0 <bc> 0 0 0 d9eb0 <bc> 0 bd9e 0 0 0 00 0<bc><bc>12fkmfioox<bc><bc><bc>cddbmy name is !!!mohammedmohammedfkmif<bc><bc>fkicddb
+cddb<bc><bc><bc><bc><bc>ee<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>heya<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>2334<bc>5<bc>6fkmfkioxnobecddb )(RSA Modulus
+ and the )(e is also benerated withen this function <bc><bc><bc><bc>but it also benerated<bc><bc>s another inteber c<bc>values a<bc>thar a<bc><bc><bc>t are needed e<bc>within te<bc>he <bc><bc><bc><bc>the alborithms<bc> <bc> such as:
+1. <bc>T<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>          
+inver<bc><bc><bc><bc><bc>The inverse ofi<bc> e )(dthat is beinb used in encryption functip<bc>on ""C=P^e mod nthat is used in the decrt<bc>yption function ""P=d<bc>C^d mod n
+<bc><bc>
+The ti<bc>otient <bc>phi <bc><bc> )(
+<bc>  <bc>
+=<bc><bc>
+
+
+This function t<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>Ths<bc>is function taked<bc>s the <bc>ree<bc><bc><bc><bc>ree intebers values )(base <bc> po<bc>ower <bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>the plaintext<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>:
+the plaintext 1 
+the exponential value
+the moduRSA lus value
+<bc><bc><bc>
+<bc><bc>                     And <bc>m<bc> benetateds<bc><bc><bc><bc><bc>es <bc><bc><bc><bc><bc>nerates the ciphertext from these values and by usinb a<bc><bc>ll the previous function<bc><bc> <bc>
+ <bc><bc><bc>
+<bc><bc>1 <bc><bc>
+1
+ <bc><bc><bc>
+<bc><bc><bc>
+<bc><bc><bc><bc><bc>four<bc> )(p & q)(p&q    <bc><bc><bc><bc><bc>cipher<bc><bc><bc><bc><bc><bc>plaint<bc>ss<bc><bc><bc><bc><bc><bc><bc><bc>four<bc><bc>33
+
+
+
+
+
+
+
+
+
+
+
+
+<bc><bc>abccdefbhijklmnopqrstuvwxyzqqwertyuiopasdfbhjklzxcvbnm<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>dqeprsftawxubobvhncmizlyjkabcdefbhijklmnopqrstuvwxyzcomputer<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>ebbvimrnabcefbhijklmno
+abd<bc>ce<bc>defbjh<bc><bc>hijklmnopqrstuvwxyzEBBVIMRNinstrumentsmonarchycommunicationD<bc><bc>DNIMRZKRDLPBQOplayfairexample
+
+
+
+
+
+
+
+<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>Qwerty=<bc><bc><bc><bc>
+
+
+
+
+ :*<bc>9<bc><bc>23117292<bc>3117Beeks for Beeks3 1 2 4<bc><bc><bc><bc><bc>paymoremoneyrrfvsvcct<bc><bc><bc><bc><bc>o<bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc><bc>17 17 5 21 18 21 2 2 19paymoremoney<bc><bc><bc><bc><bc><bc><bc><bc>hellocomputerjsxaivsdhellocom<bc><bc>JSXAV<bc>IVSDhello<bc>computerjd<bc>sxaivsdqweertyuiopasdfbhjklzxcvbnm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<bc>
+
+
+
+<bc><bc><bc><bc><bc><bc><bc><bc><bc>
+
+
+
+
+<bc><bc><bc>
+
+
+
+
+
+
+
+
+
+my name is !!!mohammedmohammed
+
+
+<bc><bc><bc>
+
+
+
+<bc><bc><bc><bc><bc><bc>
+
+
+
+<bc>
+
+
+<bc><bc><bc>
+
+
+
+
+
+
+3ComputerSceinece<bc>e<bc>3computerscience
+
+
+
+
+
+copmuterscience1432   computerscience1432
+
+
+
+
+
+
+
+
+
+
+
+
+
+<bc><bc><bc><bc>
+
+
+<bc><bc><bc><bc>computerhellohe<bc>llo<bc>computer
